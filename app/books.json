@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "title": "1984",
+        "author": "George Orwell"
+    },
+    {
+        "id": 2,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald"
+    },
+    {
+        "id": 3,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee"
+    },
+    {
+        "id": 4,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen"
+    },
+    {
+        "id": 5,
+        "title": "Moby Dick",
+        "author": "Herman Melville"
+    },
+    {
+        "id": 6,
+        "title": "War and Peace",
+        "author": "Leo Tolstoy"
+    },
+    {
+        "id": 7,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger"
+    },
+    {
+        "id": 8,
+        "title": "Brave New World",
+        "author": "Aldous Huxley"
+    },
+    {
+        "id": 9,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien"
+    },
+    {
+        "id": 10,
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury"
+    },
+    {
+        "id": 11,
+        "title": "The Odyssey",
+        "author": "Homer"
+    },
+    {
+        "id": 12,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky"
+    },
+    {
+        "id": 13,
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde"
+    },
+    {
+        "id": 14,
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë"
+    },
+    {
+        "id": 15,
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien"
+    },
+    {
+        "id": 16,
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck"
+    },
+    {
+        "id": 17,
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë"
+    },
+    {
+        "id": 18,
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath"
+    },
+    {
+        "id": 19,
+        "title": "The Handmaid's Tale",
+        "author": "Margaret Atwood"
+    },
+    {
+        "id": 20,
+        "title": "The Road",
+        "author": "Cormac McCarthy"
+    }
+]

@@ -1,0 +1,21 @@
+# Convert to script.ps1 to automate more 
+# Create app directory and files
+New-Item -Path "app" -ItemType Directory -Force
+
+New-Item -Path "app\__init__.py" -ItemType File -Force
+New-Item -Path "app\main.py" -ItemType File -Force
+New-Item -Path "app\models.py" -ItemType File -Force
+New-Item -Path "app\books.json" -ItemType File -Force
+New-Item -Path "app\requirements.txt" -ItemType File -Force
+
+# Create tests directory and file
+New-Item -Path "tests" -ItemType Directory -Force
+
+New-Item -Path "tests\__init__.py" -ItemType File -Force
+New-Item -Path "tests\test.py" -ItemType File -Force
+
+# Create Dockerfile and README
+New-Item -Path "Dockerfile" -ItemType File -Force
+New-Item -Path "README.md" -ItemType File -Force
+
+Write-Host "Setup completed!"
